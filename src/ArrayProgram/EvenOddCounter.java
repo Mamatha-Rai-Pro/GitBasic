@@ -1,4 +1,4 @@
-package gitbasic;
+package ArrayProgram;
 
 public class EvenOddCounter {
     public static void main(String[] args) {

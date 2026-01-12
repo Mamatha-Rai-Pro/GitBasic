@@ -1,4 +1,4 @@
-package gitbasic;
+package ArrayProgram;
 
 public class LargestElementInArray {
     public static void main(String[] args) {

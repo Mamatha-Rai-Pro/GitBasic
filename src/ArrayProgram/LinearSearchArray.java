@@ -1,4 +1,4 @@
-package gitbasic;
+package ArrayProgram;
 
 public class LinearSearchArray {
     public static void main(String[] args) {
