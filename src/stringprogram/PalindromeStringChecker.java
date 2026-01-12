@@ -1,4 +1,4 @@
-package StringProgram;
+package stringprogram;
 
 public class PalindromeStringChecker {
     public static void main(String[] args) {

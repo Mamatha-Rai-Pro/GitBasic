@@ -1,4 +1,4 @@
-package ArrayProgram;
+package arrayprogram;
 
 public class LargestElementInArray {
     public static void main(String[] args) {
